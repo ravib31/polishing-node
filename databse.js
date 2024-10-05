@@ -1,4 +1,6 @@
 // HZd6yMO6hY9RTOcv
+
+// mongodb connector is also a library like mongoose but we can not use mongodb for production purpose
 const { MongoClient } = require('mongodb');
 // or as an es module:
 // import { MongoClient } from 'mongodb'
